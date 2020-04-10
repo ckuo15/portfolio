@@ -3345,3 +3345,9 @@ input, select, textarea {
 				border-radius: 100%;
 				width: 100%;
 			}
+
+			.dev-icons{
+				width: 750px;
+				height: 500px;
+				text-align: center;
+			}
